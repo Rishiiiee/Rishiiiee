@@ -22,7 +22,7 @@ A passionate full-stack developer with a strong foundation in frontend technolog
 
 ## 🌐 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-shrivastava-624082377)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-shrivastava-624082377)
 
 
 
