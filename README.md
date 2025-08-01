@@ -5,6 +5,7 @@ A passionate full-stack developer with a strong foundation in frontend technolog
 ## 🚀 About Me
 
 - 🔧 Skilled in **HTML, CSS, JavaScript, React, Bootstrap **
+- 🌱 i love building clean , responsive and scalable web apps.
 - 🌱 Currently learning more about **Node.js, Express, and MongoDB**
 
 ## 🛠️ Languages and Tools I Use
