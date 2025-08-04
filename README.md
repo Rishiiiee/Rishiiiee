@@ -1,6 +1,6 @@
 # Hi 👋, I'm RISHI SHRIVASTAV
 
-A passionate full-stack developer with a strong foundation in frontend technologies and currently focused on learning backend development.
+A passionate full-stack web developer with a strong foundation in frontend technologies and currently focused on learning backend development.
 
 ## 🚀 About Me
 
